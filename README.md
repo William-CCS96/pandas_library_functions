@@ -2,8 +2,9 @@
   <img src="/images/Logo-persona_Fondo_blanco.png" alt="Logo_personal">
 </p>
 
-
-## pandas-numpy_prediction_houses_colombia
+<p align="center">
+  <h1 align="center">pandas-numpy_prediction_houses_colombia<h1>
+</p>
 
 By: William Correa
 
